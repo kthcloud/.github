@@ -13,7 +13,7 @@ We welcome contributions to **kthcloud** from anyone who wants to help make our 
 
 When submitting a pull request, please make sure to:
 
-- Follow our [Code of Conduct](CODE_OF_CONDUCT.md)
+- Follow our [Code of Conduct](https://github.com/kthcloud/.github/blob/main/profile/CODE_OF_CONDUCT.md)
 - Include a clear and descriptive title.
 - Provide a detailed description of the changes you've made.
 - Ensure that all tests pass.
@@ -23,7 +23,7 @@ We'll review your pull request as soon as possible and provide feedback if neede
 
 ## Code of Conduct
 
-Please review our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing. We expect all contributors to adhere to our code of conduct to ensure a positive and inclusive environment for everyone.
+Please review our [Code of Conduct](https://github.com/kthcloud/.github/blob/main/profile/CODE_OF_CONDUCT.md) before contributing. We expect all contributors to adhere to our code of conduct to ensure a positive and inclusive environment for everyone.
 
 ## Reporting Issues
 
