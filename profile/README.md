@@ -27,8 +27,8 @@ There are many ways to contribute to **kthcloud**. Whether you're a developer or
 
 To get started, check out our [GitHub organization](https://github.com/kthcloud) where you'll find our source code repositories, documentation, and issue tracker. We use GitHub for our development process, so be sure to familiarize yourself with it if you're not already. Before you submit a pull request, please make sure to:
 
-- Review our [Code of Conduct](CODE_OF_CONDUCT.md)
-- Follow our [Contributing Guidelines](CONTRIBUTING.md)
+- Review our [Code of Conduct](https://github.com/kthcloud/.github/blob/main/profile/CODE_OF_CONDUCT.md)
+- Follow our [Contributing Guidelines](https://github.com/kthcloud/.github/blob/main/profile/CONTRIBUTING.md)
 - Submit a descriptive pull request with a clear title and a detailed description
 - Ensure that all tests pass
 - Sign off on your commits
