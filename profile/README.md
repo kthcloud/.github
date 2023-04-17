@@ -1,21 +1,39 @@
 ![kthcloud-logo](https://user-images.githubusercontent.com/35996839/173072599-501e63cc-f523-4629-a185-762f5f525683.svg)
 
-# Welcome to kthcloud!
+# Welcome to kthcloud! :cloud:
 
-We are excited to have you as a potential contributor to our project. **kthcloud** is a student-run cloud provider that aims to provide a free and open source alternative to commercial cloud services. Our project is funded by KTH CBH and the Erasmus+ program of the European Union.
+We're thrilled that you're considering contributing to our project! **kthcloud** is a student-run cloud provider that offers a free and open source alternative to commercial cloud services. Our project is funded by KTH CBH and the Erasmus+ program of the European Union.
 
-The project was kickstarted by the thesis "Designing and implementing a private cloud for student and faculty software projects" by Pierre Le Fevre and Emil Karlsson in 2022. You can find the thesis at http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-313601.
+The project was kickstarted by the thesis "Designing and implementing a private cloud for student and faculty software projects" by Pierre Le Fevre and Emil Karlsson in 2022. You can find the thesis [here](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-313601).
 
-## Contributing
+## Use kthcloud 👩‍💻
 
-As a contributor, you can help us improve and expand our cloud services. We welcome contributions of all kinds, from code contributions to bug reports and feature suggestions. Whether you are a seasoned developer or just starting out, we encourage you to get involved.
+Our cloud platform is available [here](https://cloud.cbh.kth.se/) where users can create VMs and deploy containers. 
 
-Our cloud platform is available at https://cloud.cbh.kth.se/, where users can create VMs and deploy containers. We use Discord for account requests and support, so please join our server at https://discord.gg/MuHQd6QEtM to get started.
+We use [Discord](https://discord.gg/MuHQd6QEtM) for account requests and support, so please join our server to get started.
 
-To contribute to our project, you can check out our [GitHub repository](https://github.com/kthcloud). There, you will find our source code, documentation, and issue tracker. We use GitHub for our development process, so be sure to familiarize yourself with it if you are not already.
+You can also follow our [status bot account](https://mastodon.social/@kthcloud) on Mastodon to stay up-to-date with any maintenance or outage notifications.
 
-If you have any questions or need help getting started, feel free to reach out to us on our Discord server. We are always happy to help new contributors get up to speed.
 
-## Thank you!
+## How to Contribute :hammer_and_wrench:
 
-Thank you for considering contributing to **kthcloud**. We look forward to working with you!
+There are many ways to contribute to **kthcloud**. Whether you're a developer or not, we welcome your contributions! You can help us by:
+
+- Writing code
+- Testing and debugging our software
+- Reporting issues
+- Contributing to our documentation
+- Suggesting new features
+
+To get started, check out our [GitHub organization](https://github.com/kthcloud) where you'll find our source code repositories, documentation, and issue tracker. We use GitHub for our development process, so be sure to familiarize yourself with it if you're not already. Before you submit a pull request, please make sure to:
+
+- Review our [Code of Conduct](CODE_OF_CONDUCT.md)
+- Follow our [Contributing Guidelines](CONTRIBUTING.md)
+- Submit a descriptive pull request with a clear title and a detailed description
+- Ensure that all tests pass
+- Sign off on your commits
+
+
+## Thank You! :heart:
+
+Thank you for considering contributing to **kthcloud**! If you have any questions, feel free to reach out to us on our Discord server. We're always happy to help new contributors get up to speed.
